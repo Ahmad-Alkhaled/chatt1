@@ -19,6 +19,7 @@
     color:white;
     font-size: 90px;
     margin: 110px 0;
+    
 }
 
 .loading_container img
@@ -45,7 +46,7 @@
     }
     .box h2{
         font-size: 50px;
-        margin: 150px 0;
+        margin: 100px 0;
     }
     .loading_container img
     {
